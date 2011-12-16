@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc3Application", "Mvc3Application\Mvc3Application.csproj", "{A8956DCB-693D-4BF5-84EB-C865A85CD639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc3Application.Tests", "Mvc3Application.Tests\Mvc3Application.Tests.csproj", "{A869BCB6-E2FD-46D7-978D-E94A2A957C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8956DCB-693D-4BF5-84EB-C865A85CD639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8956DCB-693D-4BF5-84EB-C865A85CD639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8956DCB-693D-4BF5-84EB-C865A85CD639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8956DCB-693D-4BF5-84EB-C865A85CD639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A869BCB6-E2FD-46D7-978D-E94A2A957C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A869BCB6-E2FD-46D7-978D-E94A2A957C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A869BCB6-E2FD-46D7-978D-E94A2A957C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A869BCB6-E2FD-46D7-978D-E94A2A957C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
