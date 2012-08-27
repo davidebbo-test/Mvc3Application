@@ -1,15 +1,15 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc3Application", "Mvc3Application\Mvc3Application.csproj", "{A8956DCB-693D-4BF5-84EB-C865A85CD639}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc3Application.Tests", "Mvc3Application.Tests\Mvc3Application.Tests.csproj", "{A869BCB6-E2FD-46D7-978D-E94A2A957C67}"
-EndProject
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{0089285C-D1BC-44E3-BD35-5BFDB330B3A3}"
 	ProjectSection(SolutionItems) = preProject
 		.nuget\NuGet.exe = .nuget\NuGet.exe
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc3Application", "Mvc3Application\Mvc3Application.csproj", "{A8956DCB-693D-4BF5-84EB-C865A85CD639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc3Application.Tests", "Mvc3Application.Tests\Mvc3Application.Tests.csproj", "{A869BCB6-E2FD-46D7-978D-E94A2A957C67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
