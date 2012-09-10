@@ -10,7 +10,7 @@ namespace Mvc3Application.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC! zzz";
+            ViewBag.Message = "Welcome to ASP.NET MVC! ccc";
 
             return View();
         }
