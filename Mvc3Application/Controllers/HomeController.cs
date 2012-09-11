@@ -10,7 +10,7 @@ namespace Mvc3Application.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC in Azure!";
+            ViewBag.Message = "Welcome to ASP.NET MVC in Azure! FUTURE!!";
 
             return View();
         }
